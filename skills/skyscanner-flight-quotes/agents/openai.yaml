@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skyscanner Flight Quotes"
+  short_description: "Compare real nonstop fares from Singapore by city"
+  default_prompt: "Use $skyscanner-flight-quotes to compare the five cheapest nonstop round-trip flights from Singapore for my destination cities and exact dates."
